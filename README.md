@@ -4,4 +4,5 @@ The main requirement of the business enterprise is to determine the Sales trend 
 The data cleaning has been done using SQL queries on MS SQL Server and the file has been attached with thie repository.
 The cleaned Data has been then imported into Power BI for further insights gathering and creating a visual dashboard for the stakeholders.
 The Power BI Dashboard has also been attatched with this file.
+The Power BI results have been further validated using SQL for accuracy.
 Thank You!
