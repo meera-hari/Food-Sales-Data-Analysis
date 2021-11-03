@@ -28,7 +28,7 @@ The objective for this project is to design a Sales dashboard to analyze the sal
 •	SQL – for Data cleaning and Data Validation
 •	Power BI – for Data Visualization
 
-3. Process followed
+3. Process followed  
 • Checking for null values and removing them using SQL  
 •	Checking for outliers and handling them using SQL   
 •	Removing unnecessary fields from the dataset using SQL   
