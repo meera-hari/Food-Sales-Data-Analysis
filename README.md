@@ -10,12 +10,12 @@ In this project we will be trying to analyze a food sales dataset with over 6500
 
 ## Acknowledgements
 
- - [iNeuron - Food Sales Datset](https://internship.ineuron.ai/)
+ - [iNeuron - Food Sales Dataset](https://github.com/meera-hari/Food-Sales-Data-Analysis/blob/main/FOODSALESDATA.xls)
  
 ## Authors
 
 - [Meera Hari](https://github.com/meera-hari)
-- [Richa Kumari]()
+- [Richa Kumari](https://github.com/richa31kumari)
 
 
 ## Documentation
@@ -29,7 +29,7 @@ The objective for this project is to design a Sales dashboard to analyze the sal
 •	Power BI – for Data Visualization
 
 3. Process followed
-•   Checking for null values and removing them using SQL  
+• Checking for null values and removing them using SQL  
 •	Checking for outliers and handling them using SQL   
 •	Removing unnecessary fields from the dataset using SQL   
 •	Formation of separate measures table for easier checking in Power BI  
