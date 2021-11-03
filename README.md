@@ -50,7 +50,7 @@ iv) A general individual consumer behavior is also showcased in the dashboard.
 v) To solve any additional queries that the stakeholder may have, an AI generated Question-Answer format is also added to the Dashboard.
 
 
-## Files Attached in the repository
+## Files attached in the repository
 1) Dataset -FOODSALESDATA.xls  
 2) Data cleaning using SQL - Food Sales Data- Cleaning  
 3) Data Analysis using Power BI - Food Sales Analysis.pbix  
