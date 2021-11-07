@@ -29,14 +29,14 @@ The objective for this project is to design a Sales dashboard to analyze the sal
 •	Power BI – for Data Visualization
 
 3. Process followed    
-• Checking for null values and removing them using SQL  
-•	Checking for outliers and handling them using SQL   
-•	Removing unnecessary fields from the dataset using SQL   
-•	Formation of separate measures table for easier checking in Power BI  
-•	Formation of Calendar table for achieving a continous time series graph for Sales trend  
-•	Use of charts and cards for proper visualization of facts in Power BI  
-•	Use of navigation between dashboard pages for smooth gliding from insight to insight  
-•	Validation of the Power BI insights using SQL for accuracy  
+• Checking for null values and removing them using SQL    
+•	Checking for outliers and handling them using SQL     
+•	Removing unnecessary fields from the dataset using SQL     
+•	Formation of separate measures table for easier checking in Power BI    
+•	Formation of Calendar table for achieving a continous time series graph for Sales trend    
+•	Use of charts and cards for proper visualization of facts in Power BI    
+•	Use of navigation between dashboard pages for smooth gliding from insight to insight    
+•	Validation of the Power BI insights using SQL for accuracy    
 
 4. End Result   
 i) A visual dashboard highlighting the Sales trend of the Products over a time period has been shown. 
