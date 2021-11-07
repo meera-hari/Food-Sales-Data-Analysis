@@ -41,13 +41,13 @@ The objective for this project is to design a Sales dashboard to analyze the sal
 4. End Result   
 i) A visual dashboard highlighting the Sales trend of the Products over a time period has been shown. 
 
-ii) The dashboard also provides insights on the Product consumption highlighting the profit making and loss making products. 
+ ii) The dashboard also provides insights on the Product consumption highlighting the profit making and loss making products. 
 
-iii) For the stakeholders to get a better idea, we have added the user control options on understanding the Product trend over time.  
+ iii) For the stakeholders to get a better idea, we have added the user control options on understanding the Product trend over time.  
 
-iv) A general individual consumer behavior is also showcased in the dashboard. 
+ iv) A general individual consumer behavior is also showcased in the dashboard. 
  
-v) To solve any additional queries that the stakeholder may have, an AI generated Question-Answer format is also added to the Dashboard.
+ v) To solve any additional queries that the stakeholder may have, an AI generated Question-Answer format is also added to the Dashboard.
 
 
 ## Files attached in the repository
