@@ -24,11 +24,11 @@ In this project we will be trying to analyze a food sales dataset with over 6500
 
 The objective for this project is to design a Sales dashboard to analyze the sales based on various product categories. The company wants to add user control for product category, so users can select a category and can see the trend month-wise and product-wise accordingly. The Analytics team also wants to get a clear idea of the products that make profit or loss and also showcase the consumer behavior.
 
-2. 	Tools used
-•	SQL – for Data cleaning and Data Validation
+2. 	Tools used  
+•	SQL – for Data cleaning and Data Validation  
 •	Power BI – for Data Visualization
 
-3. Process followed  
+3. Process followed    
 • Checking for null values and removing them using SQL  
 •	Checking for outliers and handling them using SQL   
 •	Removing unnecessary fields from the dataset using SQL   
@@ -38,7 +38,7 @@ The objective for this project is to design a Sales dashboard to analyze the sal
 •	Use of navigation between dashboard pages for smooth gliding from insight to insight  
 •	Validation of the Power BI insights using SQL for accuracy  
 
-4. End Result
+4. End Result  
 i) A visual dashboard highlighting the Sales trend of the Products over a time period has been shown. 
 
 ii) The dashboard also provides insights on the Product consumption highlighting the profit making and loss making products. 
